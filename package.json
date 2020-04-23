@@ -1,0 +1,26 @@
+{
+  "name": "Project-Deployed",
+  "version": "1.0.0",
+  "description": "Made a Front-End Application using JavaScript CSS and HTML\r Libraries used :- Paper.js and Howler.js\r Deployed my web app using HEROKU and MongoDB Atlas",
+  "main": "paper-full.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hrithik-Sahni/Project-Deployed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hrithik-Sahni/Project-Deployed/issues"
+  },
+  "homepage": "https://github.com/Hrithik-Sahni/Project-Deployed#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  }
+}
